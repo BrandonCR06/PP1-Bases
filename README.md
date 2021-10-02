@@ -11,3 +11,4 @@ Integrantes del grupo: Brandon Redondo, Amira Acevedo, Jordi Segura
 #Objetivos no alcanzados:
 - Busqueda por filtros
 - Consulta facturas (Al ser una gran cantidad de datos, la web se cae) 
+- Ubicacion exacta del mapa (solo se muestra un mapa global)
